@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB_C_PD_Sink.PcbDoc   2020-05-15  4:03:18 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB_C_PD_Sink-RoundHoles.TXT
+ASCII SlotHoles File : USB_C_PD_Sink-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             9         PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T4      63mil (1.6mm)                                             Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              21
+
+Total Processing Time (hh:mm:ss) : 00:00:00
