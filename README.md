@@ -31,4 +31,4 @@ Designed and manufactured in Canada
 
 ![Pinout](https://github.com/ketszim97/USB_PD_Sink/blob/master/Renders/Fusion_Render_17_800px.png)
 
-![Fusion Render 1](https://github.com/ketszim97/USB_PD_Sink/blob/master/Renders/Fusion_Render_7.png)
+![Fusion Render 1](https://github.com/ketszim97/USB_PD_Sink/blob/master/Renders/Fusion_Render_18.png)
